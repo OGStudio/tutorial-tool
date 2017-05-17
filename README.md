@@ -18,7 +18,7 @@ by combining text and video
 
 Here's a preview:
 
-![Preview](https://github.com/OGStudio/tutorial-tool-readme/example/video.gif)
+![Preview](https://github.com/OGStudio/tutorial-tool-readme/blob/master/example/video.gif)
 
 <a name="deps"/>
 
