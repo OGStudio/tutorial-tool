@@ -74,7 +74,7 @@ Install tutorial-tool under macOS
 
    `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-2. Install Image magick
+1. Install Image magick
  
    ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-02.png)
 
@@ -82,7 +82,7 @@ Install tutorial-tool under macOS
 
    `brew install imagemagick`
 
-3. Install MLT
+1. Install MLT
  
    ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-03.png)
 
@@ -90,7 +90,17 @@ Install tutorial-tool under macOS
 
    `brew install mlt`
 
-4. Install tutorial-tool
+1. Install mplayer
+ 
+   ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-03.png)
+
+   Install mplayer by running the following command:
+
+   `brew install mplayer`
+
+   mplayer is used as a helper tool to get time stamps from original videos.
+
+1. Install tutorial-tool
 
    ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-04.png)
 
