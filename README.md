@@ -18,7 +18,7 @@ by combining text and video
 
 Here's a preview:
 
-![Preview](example/video.gif)
+![Preview](https://github.com/OGStudio/tutorial-tool-readme/example/video.gif)
 
 <a name="deps"/>
 
@@ -68,7 +68,7 @@ Install tutorial-tool under macOS
 
 1. Install Homebrew
 
-   ![Screenshot](readme/install-macos-01.png)
+   ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-01.png)
 
    Install [Homebrew](https://brew.sh/) by running the following command:
 
@@ -76,7 +76,7 @@ Install tutorial-tool under macOS
 
 2. Install Image magick
  
-   ![Screenshot](readme/install-macos-02.png)
+   ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-02.png)
 
    Install Image magick by running the following command:
 
@@ -84,7 +84,7 @@ Install tutorial-tool under macOS
 
 3. Install MLT
  
-   ![Screenshot](readme/install-macos-03.png)
+   ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-03.png)
 
    Install MLT by running the following command:
 
@@ -92,7 +92,7 @@ Install tutorial-tool under macOS
 
 4. Install tutorial-tool
 
-   ![Screenshot](readme/install-macos-04.png)
+   ![Screenshot](https://github.com/OGStudio/tutorial-tool-readme/readme/install-macos-04.png)
 
    Download it from GitHub and move to desired location.
 
