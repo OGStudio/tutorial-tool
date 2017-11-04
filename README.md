@@ -184,3 +184,6 @@ Tips and tricks
 
    `convert -loop 0 frames/f*.png output.gif`
 
+1. Crop video
+
+    `ffmpeg -i input.avi -vf crop=w:h:x:y output.avi`
