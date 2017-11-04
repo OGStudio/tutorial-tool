@@ -186,4 +186,4 @@ Tips and tricks
 
 1. Crop video
 
-    `ffmpeg -i input.avi -vf crop=w:h:x:y output.avi`
+    `ffmpeg -i in.mp4 -vf crop=1024:768:0:0 -c:v libx264 -crf 0 -c:a copy out.mp4`
