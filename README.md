@@ -64,7 +64,7 @@ Here's the usual workflow of making a new tutorial video:
 1. Create one or several videos of something you want to combine into a tutorial
     * You can do it with software like [OBS Studio](https://obsproject.com).
 1. Convert the video with MLT to 25 FPS
-    * `melt -verbose -profile atsc_720p_25 **source_video.mp4** -consumer avformat:**destination_video.mp4** vcodec=libx264`
+    * `melt -verbose -profile atsc_720p_25 source_video.mp4 -consumer avformat:destination_video.mp4 vcodec=libx264`
 1. Create background image with 1280x720 resolution
     * You can do it with software like [GIMP](http://gimp.org).
 1. Prepare the script to build final video
